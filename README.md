@@ -6,19 +6,19 @@ Neste trabalho, exploramos o fascinante mundo das formas geométricas! O objetiv
 
 1. **🔵 Círculo**: 
    - Calcula a área com base no raio fornecido.
-   - Fórmula: \( A = \pi \times r^2 \)
+   - Fórmula:( A = pi times r^2)
 
 2. **🟦 Quadrado**: 
    - Calcula a área com base no comprimento do lado.
-   - Fórmula: \( A = l^2 \)
+   - Fórmula:( A = l^2)
 
 3. **🟩 Retângulo**: 
    - Calcula a área usando largura e altura.
-   - Fórmula: \( A = largura \times altura \)
+   - Fórmula:( A = largura times altura)
 
 4. **🔺 Triângulo**: 
    - Calcula a área com base na base e altura.
-   - Fórmula: \( A = \frac{base \times altura}{2} \)
+   - Fórmula:( A = frac{base times altura}{2})
 
 ## Como Usar 🤔
 Para executar o programa, siga estes passos simples:
