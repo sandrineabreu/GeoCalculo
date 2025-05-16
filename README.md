@@ -1,4 +1,4 @@
-# 🌟 Cálculo de Formas Geométricas 🌟
+🌟 Cálculo de Formas Geométricas 🌟
 
 Neste trabalho, exploramos o fascinante mundo das formas geométricas! O objetivo é calcular a área de quatro formas clássicas, utilizando programação para facilitar esses cálculos.
 
